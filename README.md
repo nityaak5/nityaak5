@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**nityaak5/nityaak5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi, I'm Nityaa
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 I'm a student at Radboud University, doing my MSc in Data Science
+- 💡 Interests: NLP, XAI, responsible AI, recommender systems
+- 📚 I’m currently working on **Bias in book Recommender systems** for my thesis where I am investigating bias related to genres/ themes.
+- ✍️ Check out my blog: [Medium](https://medium.com/@nityaakalra5)
+- 📄 Here is my [Resume](https://drive.google.com/file/d/1yXs87eDDNLMNkHXJW8_ZyPKoH9q5GTWS/view?usp=sharing)
+
+
+## Contact me:
+- LinkedIn: [Nityaa Kalra](www.linkedin.com/in/nityaakalra)
+- Email: [nityaak5@gmail.com](nityaak5@gmail.com)
+
+Feel free to explore my repositories and contributions!
+
