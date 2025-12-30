@@ -1,8 +1,7 @@
 # Hi, I'm Nityaa
 
-🎓 I'm a student at Radboud University, doing MSc in Data Science. <br>
+🎓 I'm an AI Researcher at Tilburg University. <br>
 💡 My Interests: NLP, XAI, responsible AI, recommender systems. <br>
-📚 I’m currently working on **Bias in book Recommender Systems** for my thesis where I am investigating bias related to genres/ themes. <br>
 ✍️ Check out my blog: [Medium](https://medium.com/@nityaakalra5) <br>
 📄 Here is my [Resume](https://drive.google.com/file/d/1t14ht_yvfAIxWnoUj0KLIFi5sNaqlUJ5/view?usp=sharing) <br>
 
