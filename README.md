@@ -2,7 +2,7 @@
 
 🎓 I'm an AI Researcher at Tilburg University. <br>
 💡 My Interests: NLP, XAI, responsible AI, recommender systems. <br>
-✍️ Check out my blog: [Medium](https://medium.com/@nityaakalra5) <br>
+✍️ Check out my blog: [Medium](https://medium.com/@nityaakalra5) and my [Portfolio](https://nityaak5.github.io/blog/)<br>
 📄 Here is my [Resume](https://drive.google.com/file/d/1t14ht_yvfAIxWnoUj0KLIFi5sNaqlUJ5/view?usp=sharing) <br>
 
 
